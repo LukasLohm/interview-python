@@ -1,5 +1,5 @@
 """Playground for Programming Exercise"""
-
+import scrapy
 
 def main():
     print("This is the official playground for this programming exercise")
@@ -15,3 +15,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
